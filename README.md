@@ -1,5 +1,6 @@
 
 # React-Hello
+## `This project is part of a series of exercises from the book "Pure React" by Dave Ceddia.`
 
 In the project directory, first run:
 ### `npm install`
